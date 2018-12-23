@@ -201,7 +201,6 @@ Remember the strange `call 0x8048760` we saw at the beginning? Inside of it it h
 => 0x804877e:	call   0x8048500 <system@plt>
 Guessed arguments:
 arg[0]: 0xffffd37c ("f2tc")
-arg[1]: 0xf7ff00f0 (<_dl_runtime_resolve+16>:	pop    edx)
 ```
 
 ## Exploit
